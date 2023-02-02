@@ -12,5 +12,5 @@ I saw this lesson cemented when I moved on to week 1 and started doing the exerc
 Ultimately, when using a programming language, it comes down to figuring out how to solve a problem within the limitations of that specific language. This is why it’s more important to be fluent in [[programming logic\|programming logic]] than in any one particular language.
 
 **Planted:** 1/18/23  
-**Last Tended:** 1/18/23  
-**Status:** 🌱 #seedling
+**Last Tended:**  `=this.file.mday`
+**Status:** 🌱 #seedling 
