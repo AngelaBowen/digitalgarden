@@ -7,6 +7,6 @@ If the universe does guide us to what we need to explore, it is guiding me towar
 
 The labyrinthine nature of these things more than intrigues me, I feel a deep connection and need to follow this path.
 
-**Planted:** 1/18/23  
-**Last Tended:** `=this.file.mday`
+**Planted:** January 18, 2023  
+**Last Tended:** February 01, 2023
 **Status:** 🌱  #seedling 
