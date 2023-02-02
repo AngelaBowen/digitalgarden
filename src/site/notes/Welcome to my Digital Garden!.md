@@ -3,7 +3,7 @@
 ---
 
 
-I'm [[Personal/Who Am I\|Angie Bowen]]. This is my [[Digital Garden\|Digital Garden]]. 
+I'm [[Who Am I\|Angie Bowen]]. This is my [[Digital Garden\|Digital Garden]]. 
 
 As a gen-xer I find myself missing the internet of the 90s, where everyone had an Angelfire or Geocities website. Their own little corner of the web that fit their individual personality and interests. Social media has its advantages, but it has also homogenized the web in a very disappointing way.
 
