@@ -14,6 +14,6 @@ Keep your notes to minimal locations. Most would say one location but I find tha
 
 Make notes on what speaks to you. You'll want to make notes on everything that interests you but this isn't sustainable. Your knowledge band would grow far too large. You have to learn to notice the difference between what really resonates with you and what you just find interesting. Remember that we're cultivating a beautiful [[Digital Garden\|mind garden]], not mindlessly collecting. Great gardeners don't plant every flower they find pretty in their garden. They chose those that they love and those that grow well together. Cultivate what truly speaks to you and sparks your passion.
 
-**Planted:**  February 1st 2023
-**Last Tended:** `=this.file.mday`
+**Planted:**  February 01, 2023
+**Last Tended:** February 01, 2023
 **Status:** 🌿 #growing
