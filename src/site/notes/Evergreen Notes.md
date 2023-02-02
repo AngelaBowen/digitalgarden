@@ -56,6 +56,6 @@ Close open loops
 - Remove notes that are no longer necessary
 - Update other notes as needed
 
-**Planted:** 1/18/23  
-**Last Tended:** [1/18/23](`=this.file.mday`)
+**Planted:** January 18, 2023  
+**Last Tended:** February 01, 2023
 **Status:** 🌿 #growing 
