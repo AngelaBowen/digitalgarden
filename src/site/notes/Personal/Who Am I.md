@@ -11,4 +11,4 @@ Here at my personal site I'm experimenting with [[Learn in Public\|learning in p
 
 I created [Hack The Planner](https://www.hacktheplanner.com/) for that side of me that loves pretty, artistic things and believes in the power of writing / journaling for personal growth. It also fulfills that side of me that loves cheesy puns and the movie Hackers. There I create planners and journals for fellow creatives, helping them organize their inherently messy lives and work toward achieving their life's purpose.
 
-[[Personal/My Systems\|My Systems]]
+[[My Systems\|My Systems]]
