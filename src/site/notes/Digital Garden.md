@@ -32,6 +32,6 @@ I first discovered digital gardening last year when I came across Maggie Appleto
 
 [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
-**Planted:** 1/18/23  
-**Last Tended:** `=this.file.mday`
+**Planted:** January 18, 2023  
+**Last Tended:** February 01, 2023
 **Status:** 🌿 #growing 
