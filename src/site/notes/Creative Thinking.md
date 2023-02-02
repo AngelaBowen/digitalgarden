@@ -11,6 +11,6 @@ This is hard work, you have to learn a whole new way of thinking about organizat
 
 Learn Mental Models
 
-**Planted:**  February 1st 2023
-**Last Tended:** `=this.file.mday`
+**Planted:**  February 01, 2023
+**Last Tended:** February 01, 2023
 **Status:** 🌱 #seedling
