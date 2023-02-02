@@ -5,7 +5,7 @@
 
 Anne-Laure Le Cunff at Ness Labs developed the PACT method [making a PACT as an alternative to SMART goals](https://nesslabs.com/smart-goals-pact)
 
-PACT goals have become an essential part of [[Personal/My Systems\|My Systems]]. I created a[Free PACT Goal Template](https://hacktheplanner.com/make-a-pact-with-a-free-pact-goal-setting-digital-journal/) at Hack the Planner.
+PACT goals have become an essential part of [[My Systems\|My Systems]]. I created a[Free PACT Goal Template](https://hacktheplanner.com/make-a-pact-with-a-free-pact-goal-setting-digital-journal/) at Hack the Planner.
 
 ## PACT Goal Basics
 
