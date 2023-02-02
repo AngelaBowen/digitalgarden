@@ -16,8 +16,8 @@ PACT goals have become an essential part of [[Personal/My Systems\|My Systems]]
 
 ## My Current PACT
 
-I must do 2 hours of focused work every week day  
+I will do 2 hours of focused work every week day  
 
 **Planted:** 1/21/23  
-**Last Tended:** 1/21/23  
-**Status:** 🌱 #seedling
+**Last Tended:** `=this.file.mday`
+**Status:** 🌱 #seedling 
