@@ -18,7 +18,7 @@ Read | Think Critically | Summarize | Remix
 
 **Tools**
 
-Procreate | Photoshop | WordPress | HTML | CSS | Goodnotes | Notion
+Obsidian | Procreate | Photoshop | WordPress | HTML | CSS | Goodnotes | Notion
 
 **Connecting**
 
@@ -38,9 +38,3 @@ Per the [[Digital Garden\|Digital Garden]] [TOS](https://www.swyx.io/digital-g
 
 [![Digital Garden Terms of Service](https://i0.wp.com/angiebowen.com/wp-content/uploads/2023/01/digitalgardentos.png?resize=640%2C331&ssl=1)](https://www.swyx.io/digital-garden-tos)
 
-1. Write 1,000 tweets 
-2. Turn the best 100 tweets into blog posts 
-3. Turn the best 10 blog posts into ebooks 
-4. Turn the single best ebook into a published book 
-5. Repeat
-[Tiago Forte](https://twitter.com/fortelabs)
