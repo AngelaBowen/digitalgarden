@@ -40,6 +40,6 @@ Look at page
 	Else
 		Quit
 
-**Planted:** 1/18/23  
-**Last Tended:** `=this.file.mday`
+**Planted:** January 18, 2023
+**Last Tended:** February 01, 2023
 **Status:** 🌿 #growing 
