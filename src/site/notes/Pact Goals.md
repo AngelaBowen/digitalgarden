@@ -18,6 +18,6 @@ PACT goals have become an essential part of [[Personal/My Systems\|My Systems]]
 
 I will do 2 hours of focused work every week day  
 
-**Planted:** 1/21/23  
-**Last Tended:** `=this.file.mday`
+**Planted:** January 18, 2023
+**Last Tended:** February 01, 2023
 **Status:** 🌱 #seedling 
