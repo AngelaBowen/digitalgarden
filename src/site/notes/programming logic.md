@@ -41,5 +41,5 @@ Look at page
 		Quit
 
 **Planted:** 1/18/23  
-**Last Tended:** 1/18/23  
-**Status:** 🌿 #growing
+**Last Tended:** `=this.file.mday`
+**Status:** 🌿 #growing 
