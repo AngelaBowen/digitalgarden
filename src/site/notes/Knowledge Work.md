@@ -18,6 +18,6 @@ Use Time Blocking for each specific task
 1% Better from what you learn
 Evaluation / Review
 
-**Planted:**  February 1st 2023
-**Last Tended:** `=this.file.mday`
+**Planted:**  February 01, 2023
+**Last Tended:** February 01, 2023
 **Status:** 🌱 #seedling 
