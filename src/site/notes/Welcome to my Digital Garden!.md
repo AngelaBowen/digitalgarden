@@ -18,8 +18,8 @@ One of the cornerstones of a digital garden is that it's not organized by date b
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = https://notes.angiebowen.com;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = https://notes.angiebowen.com; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE
