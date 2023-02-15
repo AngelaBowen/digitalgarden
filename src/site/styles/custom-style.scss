@@ -1,23 +1,29 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+   color: #333333;
+}
+
+h1 {
+   color: #666666
+}
+
+h1 a, h1 a:hover {
+    color: #666666 !important;
 }
 
 a, a:hover {
-    color: #eb606e;
-    font-weight: bold;
+    color: #eb606e !important;
+    font-weight: bold !important;
+}
+
+a.tag {
+    background-color: #d7f1bf;
 }
 
 .content {
     max-width: 900px;
-    margin: 50px;
+    margin: 100px 50px 50px 80px;
+}
+
+.backlinks {
+    margin-right: 50px;
 }
