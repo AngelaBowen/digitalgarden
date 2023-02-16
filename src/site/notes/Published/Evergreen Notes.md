@@ -3,6 +3,8 @@
 ---
 
 
+
+
 [Andy Matuschak](https://andymatuschak.org/) proposed the term [Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) meant to allow us to create our own personal knowledge bank of interconnected original thoughts rather than the random notes we never come back to.
 
 Evergreen Notes are a major element of [[Published/Knowledge Work\|Knowledge Work]].
