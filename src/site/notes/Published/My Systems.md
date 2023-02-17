@@ -23,6 +23,8 @@ Read | Think Critically | Summarize | Remix
 
 Obsidian | Logseq | Procreate | Photoshop | HTML | CSS | Goodnotes | Notion | Substack
 
+All images in the garden created using [Deep Dream Generator](https://deepdreamgenerator.com/)
+
 **Connecting**
 
 [Praise in public. Criticize in private.](https://www.radicalcandor.com/public-praise-private-criticism/) Feedback should be
