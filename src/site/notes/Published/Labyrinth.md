@@ -7,6 +7,8 @@
 
 If the universe does guide us to what we need to explore, it is guiding me toward the labyrinth. 
 
+Sometimes we discover something new or have a realization that changes the trajectory of our lives forever.
+
 The labyrinth is often believed to be the path to God. God can also be ourselves. 
 
 The shape of the labyrinth resembles a brain, and walking the labyrinth is a metaphor for exploring ourselves and our own minds. The physical act of walking the labyrinth is a meditative activity that puts us in the right frame of mind to listen to our inner voice and discover new aspects of ourselves. 
